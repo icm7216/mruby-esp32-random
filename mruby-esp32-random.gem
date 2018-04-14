@@ -1,0 +1,6 @@
+name: mruby-esp32-random
+description: ESP32 hardware RNG Module
+author: icm7216
+website: https://github.com/icm7216/mruby-esp32-random
+protocol: git
+repository: https://github.com/icm7216/mruby-esp32-random.git
