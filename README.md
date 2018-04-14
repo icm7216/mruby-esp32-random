@@ -26,6 +26,9 @@ generate random Integer number (0 < max)
 ```ruby
 rand(max)  
 ```
+## sample
+
+*   [Electronic Dice with mruby-esp32](https://github.com/icm7216/ElectronicDice-mruby-esp32)
 
 ## Note:
 
